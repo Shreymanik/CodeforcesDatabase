@@ -53,6 +53,7 @@ while c=='Y':
     s=input()
     page=find_pages(s)
     list=crawl(page,s)
+    accuracy=float(list[0]/sum(list))*100;
     print('CODEFORCES DATABASE')
     print('\n')
     print('User Name : ',s)
@@ -64,6 +65,7 @@ while c=='Y':
     print('Number Of Hacked Solution : ' , list[4])
     print('Number Of Compilation Errors : ',list[5])
     print('Number Of Memory Limit Exceeded Solution : ' ,list[6])
+    print('Accuracy :  ',accuracy)
     c=input()
 
 
