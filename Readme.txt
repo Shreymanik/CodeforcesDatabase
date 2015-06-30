@@ -1,4 +1,4 @@
-CodeforcesDatabse
+CodeforcesDatabase
 
 A simple python script to see the number of accepted solutions,wa,tle,mle,run time errors and compiltaion of a User for various codeforces problems.
 
@@ -14,3 +14,5 @@ Running the script:
 # Type python main.py
 # Enter the username to get the details.
 # Enter 'Y' to continue the search or enter 'N' to quit the program.
+
+Any Suggestions are welcomed.
