@@ -56,6 +56,7 @@ while c=='Y':
     print('CODEFORCES DATABASE')
     print('\n')
     print('User Name : ',s)
+    print('Total Submissions : ' , sum(list))
     print('Number Of Accepted Solutions : ' , list[0])
     print('Number Of Wrong Answers : ' , list[1])
     print('Number Of TLEs : ' , list[2])
