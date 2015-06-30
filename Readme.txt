@@ -1,6 +1,6 @@
 CodeforcesDatabase
 
-A simple python script to see the number of accepted solutions,wa,tle,mle,run time errors and compiltaion of a User for various codeforces problems.
+A simple python script to view the number of accepted solutions,wa,tle,mle,run time errors and compiltaion errors by a User for various codeforces problems.
 
 Requirements:
 
